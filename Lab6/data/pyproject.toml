@@ -1,0 +1,6 @@
+[project]
+name = "lab6"
+version = "0.1.0"
+
+[tool.setuptools]
+packages = ["models", "training", "data", "testing"]
